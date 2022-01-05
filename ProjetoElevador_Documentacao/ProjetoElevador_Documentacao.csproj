@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\img1.png" />
+    <None Include="wwwroot\img\img10.png" />
+    <None Include="wwwroot\img\img11.png" />
+    <None Include="wwwroot\img\img12.png" />
+    <None Include="wwwroot\img\img13.png" />
+    <None Include="wwwroot\img\img14.png" />
+    <None Include="wwwroot\img\img15.png" />
+    <None Include="wwwroot\img\img2.png" />
+    <None Include="wwwroot\img\img3.png" />
+    <None Include="wwwroot\img\img4.png" />
+    <None Include="wwwroot\img\img5.png" />
+    <None Include="wwwroot\img\img6.png" />
+    <None Include="wwwroot\img\img7.png" />
+    <None Include="wwwroot\img\img8.png" />
+    <None Include="wwwroot\img\img9.png" />
+  </ItemGroup>
+
+</Project>
